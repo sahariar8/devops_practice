@@ -1,4 +1,4 @@
-name: Sahariar Portfolio Deployment with CI/CD
+name: Shahariar Portfolio Deployment with CI/CD
 
 on:
   push:
